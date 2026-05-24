@@ -1,113 +1,49 @@
-# 👋 Vanakkam Makkale
-
 <div align="center">
 
-# I'm A S Mohamed Arfeen
+# ⚡ A S Mohamed Arfeen
 
-### 🚀 AI Engineer | Entrepreneur | Founder of A-Zentrix
+### Founder @ A-Zentrix • AI Systems Engineer • Building Intelligent Products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI-Powered+Products;Founder+of+A-Zentrix;FastAPI+%7C+NLP+%7C+LLMs+%7C+ML;Future+Tech+Entrepreneur" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products;Founder+of+A-Zentrix;AI+Systems+%26+Automation;Generative+AI+%7C+LLMs+%7C+NLP;Engineering+the+Future" />
 
 </div>
 
 ---
 
-## 💫 About Me
+# 🚀 What I Do
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+* 🧠 Architect and build AI-powered systems focused on automation, intelligence, and real-world impact.
+* ⚡ Founder of **A-Zentrix**, building scalable AI-driven products.
+* 🤖 Engineering solutions across:
 
-* 🔭 Currently building AI-powered systems and startup products
-* 🧠 Passionate about Artificial Intelligence, NLP, LLMs & Automation
-* 🚀 Founder of **A-Zentrix**
-* 🎓 B.Tech AI & DS Student at Nandha Engineering College
-* 🏆 Hackathon Winner & Tech Speaker
-* 🤖 Building futuristic AI systems like Jarvis
-* 🌱 Currently learning:
-
-  * Advanced AI Systems
-  * FastAPI
-  * LLMOps
-  * Robotics
-* 💬 Ask me about:
-
-  * Python
-  * FastAPI
-  * Machine Learning
-  * NLP
-  * Prompt Engineering
-  * AI Startups
-* ⚡ Fun Fact:
-
-  > "I want to build a 100 Million Dollar AI Company."
+  * Generative AI
+  * NLP & LLMs
+  * AI Automation
+  * FastAPI Backends
+  * AI Workflow Systems
+* 🏗️ Designing products from idea → architecture → deployment.
+* 🎤 Conduct AI & Prompt Engineering sessions and technical workshops.
+* 🚀 Focused on building high-value technology companies and impactful AI products.
 
 ---
 
-# 🌐 Connect With Me
+# 🧩 Current Focus
 
-<p align="left">
-<a href="https://www.linkedin.com/in/asmohamedarfeen/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
-<a href="mailto:asmohamed.arfeen@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-</p>
+* 🧠 AI Mental Wellness Platform
+* 🎨 Enterprise AI Poster Generation Engine
+* 🤖 AI Automation Systems
+* ⚡ FastAPI & AI Infrastructure
+* 🏗️ Building scalable startup systems
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ Core Technologies
 
-## 🧠 AI Mental Wellness System
+<div align="center">
 
-> AI-powered emotional wellness assistant with emotion detection and adaptive support.
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,mysql,git,linux,java,cpp" />
 
-### Features
-
-* Emotion Detection using CNN
-* AI-generated emotional support
-* NLP-based interaction
-* Speech Recognition
-* Mental health analysis
-
-### Tech Stack
-
-`Python` `TensorFlow` `CNN` `NLP` `FastAPI`
-
----
-
-## 🎨 AI Poster Maker
-
-> Enterprise AI poster generation platform for automated branding.
-
-### Features
-
-* AI-generated posters
-* Prompt enhancement
-* Logo integration
-* Automated branding workflow
-
-### Tech Stack
-
-`FastAPI` `Python` `Generative AI` `Prompt Engineering`
-
----
-
-## 🎧 TuneEng LSRW
-
-> Platform for improving Listening, Speaking, Reading & Writing skills.
-
-### Features
-
-* Adaptive learning
-* Fluency tracking
-* Daily challenges
-* Leaderboards
-* Peer reviews
+</div>
 
 ---
 
@@ -115,11 +51,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmohamedarfeen&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmohamedarfeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmohamedarfeen&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmohamedarfeen&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmohamedarfeen&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmohamedarfeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -131,85 +67,69 @@
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🧠 Featured Systems
 
-<div align="center">
+## 🧠 AI Mental Wellness Platform
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="65" />
-<br>Python
-</td>
+AI-powered emotional intelligence system using emotion detection, NLP, adaptive response generation, and AI-driven support workflows.
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="65" />
-<br>C++
-</td>
+### Stack
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="65" />
-<br>Java
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65" />
-<br>TensorFlow
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=pytorch" width="65" />
-<br>PyTorch
-</td>
-</tr>
-
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=fastapi" width="65" />
-<br>FastAPI
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="65" />
-<br>Docker
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" />
-<br>MySQL
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="65" />
-<br>Git
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="65" />
-<br>Linux
-</td>
-</tr>
-</table>
-
-</div>
+`Python` `CNN` `TensorFlow` `FastAPI` `NLP`
 
 ---
 
-# 🏆 Achievements
+## 🎨 A-Zentrix AI Poster Engine
+
+Enterprise AI design automation system that transforms prompts and brand assets into production-ready marketing creatives.
+
+### Stack
+
+`FastAPI` `Generative AI` `Prompt Engineering` `Automation`
+
+---
+
+## 🎧 TuneEng LSRW
+
+An intelligent platform focused on improving corporate communication and LSRW skills through adaptive workflows and analytics.
+
+---
+
+# 🏆 Highlights
 
 * 🥇 Winner — Hackapolooza '25
 * 🚀 Founder of A-Zentrix
-* 🎤 Conducted AI & Prompt Engineering Workshops
-* 🧠 Built AI Emotion Detection System
-* 📜 Working on Patent-Based AI Systems
+* 🎤 AI Workshop & Prompt Engineering Speaker
+* 🧠 Builder of AI-based intelligent systems
+* ⚡ Focused on scalable AI product engineering
 
 ---
 
-# 🎯 Vision
+# 🌍 Vision
 
 <div align="center">
 
-### "Building intelligent systems that create real-world impact."
+## “Building technology companies that create real-world impact through AI.”
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asmohamedarfeen/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+
+<a href="https://github.com/asmohamedarfeen">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+
+<a href="mailto:asmohamed.arfeen@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
 
 </div>
 
@@ -217,8 +137,6 @@
 
 <div align="center">
 
-### ⭐ Thank You For Visiting My Profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=130&section=footer"/>
 
 </div>
