@@ -121,11 +121,11 @@ Intelligent communication enhancement platform focused on improving corporate-le
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmohamedarfeen&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmohamedarfeen&theme=tokyonight&hide_border=true" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmohamedarfeen&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -133,7 +133,7 @@ Intelligent communication enhancement platform focused on improving corporate-le
 
 # 📈 Contribution Graph
 
-[![Arfeen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&bg_color=0d1117\&color=00ffff\&line=00ffff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arfeen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asmohamedarfeen\&bg_color=0d1117\&color=00ffff\&line=00ffff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
