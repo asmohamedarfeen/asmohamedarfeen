@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0088FF,100:002266&height=220&section=header&text=A%20S%20Mohamed%20Arfeen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20A-Zentrix%20%E2%80%A2%20AI%20Systems%20Architect%20%26%20LLM%20Engineer&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+<img src="./assets/header.svg" width="100%" alt="A S Mohamed Arfeen - Founder @ A-Zentrix | AI Systems Architect" />
 
 <p align="center">
   <a href="https://linkedin.com/in/asmohamedarfeen/" target="_blank">
@@ -181,6 +181,6 @@ Whether architecting low-latency inference endpoints, designing multi-modal emot
   Reach out via <a href="https://linkedin.com/in/asmohamedarfeen/">LinkedIn</a> or drop an email at <a href="mailto:asmohamed.arfeen@gmail.com">asmohamed.arfeen@gmail.com</a>.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=110&section=footer" width="100%" alt="Footer Banner" />
+<img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
