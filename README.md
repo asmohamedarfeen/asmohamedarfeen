@@ -1,230 +1,186 @@
-# 👋 Vanakkam Makkale
-
 <div align="center">
 
-# A S Mohamed Arfeen
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0088FF,100:002266&height=220&section=header&text=A%20S%20Mohamed%20Arfeen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20A-Zentrix%20%E2%80%A2%20AI%20Systems%20Architect%20%26%20LLM%20Engineer&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
 
-### ⚡ Founder @ A-Zentrix • AI Systems Engineer • Building Intelligent Products
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Engineering+AI-Powered+Systems;Founder+of+A-Zentrix;Building+Scalable+AI+Products;Generative+AI+%7C+LLMs+%7C+Automation;Designing+Technology+for+Real-World+Impact" />
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-* 🧠 Building intelligent systems focused on automation, AI infrastructure, and real-world impact.
-* 🚀 Founder of **A-Zentrix**, focused on AI-powered products and scalable technology solutions.
-* ⚡ Engineering products across:
-
-  * Generative AI
-  * NLP & LLMs
-  * AI Automation
-  * FastAPI Architectures
-  * Intelligent Workflow Systems
-* 🏗️ Transforming ideas into deployable AI products and systems.
-* 🎤 Speaker on AI, Prompt Engineering, and emerging technologies.
-* 🤖 Passionate about architecting futuristic AI assistants and intelligent platforms.
-* 🌱 Currently advancing in:
-
-  * AI Systems Engineering
-  * LLMOps & AI Infrastructure
-  * Backend Architecture
-  * Robotics & Automation
-* 💬 Areas I work on:
-
-  * AI Engineering
-  * FastAPI
-  * Machine Learning
-  * NLP & LLMs
-  * Prompt Engineering
-  * AI Product Development
-* ⚡ Vision:
-
-> Building a world-class AI technology company that creates meaningful impact at scale.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/asmohamedarfeen/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-<a href="https://github.com/asmohamedarfeen" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
-<a href="mailto:asmohamed.arfeen@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/asmohamedarfeen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:asmohamed.arfeen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/asmohamedarfeen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://asmohamedarfeen.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
 </p>
 
----
-
-# 🚀 Featured Systems
-
-## 🧠 AI Mental Wellness Platform
-
-AI-powered emotional intelligence platform designed to provide adaptive emotional support through emotion detection, NLP pipelines, and intelligent response systems.
-
-### Capabilities
-
-* Emotion Detection using CNNs
-* AI-driven adaptive support
-* NLP-powered interaction workflows
-* Speech Recognition & Analysis
-* Intelligent mental wellness reporting
-
-### Stack
-
-`Python` `TensorFlow` `CNN` `NLP` `FastAPI`
-
----
-
-## 🎨 A-Zentrix AI Poster Engine
-
-Enterprise AI design automation platform that transforms prompts and brand assets into production-ready marketing creatives.
-
-### Capabilities
-
-* AI-powered poster generation
-* Intelligent prompt enhancement
-* Automated branding workflows
-* Dynamic logo integration systems
-
-### Stack
-
-`FastAPI` `Python` `Generative AI` `Automation`
-
----
-
-## 🎧 TuneEng LSRW
-
-Intelligent communication enhancement platform focused on improving corporate-level Listening, Speaking, Reading, and Writing capabilities.
-
-### Capabilities
-
-* Adaptive learning workflows
-* Fluency analytics
-* Guided communication modules
-* Performance tracking systems
-* Competitive engagement mechanisms
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmohamedarfeen&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmohamedarfeen&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmohamedarfeen&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Founder+%40+A-Zentrix;Architecting+Autonomous+AI+Systems+%26+Agents;Building+Enterprise-Grade+Generative+AI+Products;Production+FastAPI+Backend+%26+LLMOps+Pipelines;Transforming+AI+Research+into+Real-World+Impact" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🧭 Executive Overview
 
-[![Arfeen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asmohamedarfeen\&bg_color=0d1117\&color=00ffff\&line=00ffff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I am an **AI Systems Architect** and the **Founder of A-Zentrix**, engineering the next frontier of intelligent products and autonomous software systems. My core expertise sits at the intersection of **deep learning pipelines**, **agentic workflows**, and **high-concurrency distributed backends**.
+
+Whether architecting low-latency inference endpoints, designing multi-modal emotion intelligence engines, or scaling automated marketing infrastructure, I build with an uncompromising standard for performance, modularity, and business impact.
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  AI Systems Engineering  •  LLMOps & RAG  •  FastAPI Architectures  •  Vision │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+| Dimension | Focus & Impact |
+| :--- | :--- |
+| 🚀 **Venture Leadership** | Founder of **A-Zentrix** — scaling intelligent workflow automation and generative AI products. |
+| 🧠 **AI & LLM Architecture** | Production RAG systems, Autonomous Agents, LLM fine-tuning, and Affective Computing (CNNs). |
+| ⚡ **Backend & Distributed Systems** | Asynchronous FastAPI microservices, event-driven pipelines, and high-throughput APIs. |
+| 🏆 **Recognition & Community** | **Hackapolooza '25 Champion**, Keynote Speaker, and AI & Prompt Engineering Mentor. |
+| 🎯 **Core Mission** | Engineering robust, sovereign AI infrastructure that solves high-value industry challenges. |
 
 ---
 
-# 🛠️ Technologies & Infrastructure
+## 🚀 Flagship Systems & Architecture
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI Mental Wellness Platform</h3>
+      <p><em>Multi-Modal Affective Computing & Adaptive Support System</em></p>
+      <p>An enterprise-grade emotional intelligence platform that processes real-time multimodal behavioral signals to deliver personalized, adaptive therapeutic interventions.</p>
+      <ul>
+        <li><b>Computer Vision & Audio:</b> CNN-powered facial emotion recognition paired with real-time speech acoustic analysis.</li>
+        <li><b>Cognitive Workflows:</b> NLP-driven adaptive interaction loops and automated psychometric evaluation summaries.</li>
+        <li><b>Backend Engine:</b> Asynchronous microservice architecture built for low-latency inference.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/CNN_&_NLP-00F7FF?style=flat-square" alt="CNN NLP" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 A-Zentrix AI Poster Engine</h3>
+      <p><em>Enterprise Automated Generative Design Pipeline</em></p>
+      <p>A zero-touch marketing engine that translates high-level textual prompts and raw brand assets into high-converting, production-ready creatives.</p>
+      <ul>
+        <li><b>Prompt Optimization:</b> Multi-stage LLM prompt refinement and aesthetic style synthesis.</li>
+        <li><b>Automated Branding:</b> Dynamic typography positioning, brand palette adherence, and vector logo integration.</li>
+        <li><b>Scale:</b> Fully automated batch generation pipeline reducing marketing asset turnaround by 90%.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Generative_AI-7928CA?style=flat-square" alt="GenAI" />
+        <img src="https://img.shields.io/badge/Automation-FF0080?style=flat-square" alt="Automation" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎧 TuneEng LSRW</h3>
+      <p><em>Adaptive Corporate Communication & Fluency Analytics Platform</em></p>
+      <p>An intelligent assessment and training engine engineered to elevate corporate-grade Listening, Speaking, Reading, and Writing competencies through granular real-time feedback.</p>
+      <ul>
+        <li><b>Acoustic & Linguistic Diagnostics:</b> Phoneme-level pronunciation tracking, speech rate evaluation, and syntax profiling.</li>
+        <li><b>Adaptive Curricula:</b> Dynamic reinforcement loops targeting individual communication deficiencies.</li>
+        <li><b>Institutional Telemetry:</b> Comprehensive progress dashboards and competitive benchmark leaderboards.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Speech_AI-00F7FF?style=flat-square" alt="Speech AI" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/NLP_Pipelines-4B32C3?style=flat-square" alt="NLP" />
+        <img src="https://img.shields.io/badge/Analytics-E34F26?style=flat-square" alt="Analytics" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Ecosystem & Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="65" />
-<br>Python
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,cpp,java,postgres,mysql,docker,linux,git,postman&theme=dark" alt="Tech Stack Icons" />
+</p>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="65" />
-<br>C++
-</td>
+</div>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="65" />
-<br>Java
-</td>
+### 🧠 Artificial Intelligence & LLMs
+`PyTorch` • `TensorFlow` • `Hugging Face` • `LangChain` • `LLMOps` • `RAG Architectures` • `CNNs` • `Prompt Engineering` • `Multi-Modal Systems`
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65" />
-<br>TensorFlow
-</td>
+### ⚙️ Backend Architecture & Systems
+`FastAPI` • `Python (Async)` • `C++` • `Java` • `RESTful Microservices` • `Asynchronous I/O` • `API Security` • `System Design`
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=pytorch" width="65" />
-<br>PyTorch
-</td>
-</tr>
+### 🗄️ Data & Cloud Infrastructure
+`PostgreSQL` • `MySQL` • `Docker` • `Linux (Ubuntu/Debian)` • `Git & GitHub Workflows` • `Postman` • `CI/CD Automation`
 
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=fastapi" width="65" />
-<br>FastAPI
-</td>
+---
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="65" />
-<br>Docker
-</td>
+## 📊 Telemetry & GitHub Analytics
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" />
-<br>MySQL
-</td>
+<div align="center">
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="65" />
-<br>Git
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="65" />
-<br>Linux
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=asmohamedarfeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmohamedarfeen&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmohamedarfeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" width="60%" />
+    </td>
+  </tr>
 </table>
 
 </div>
 
----
-
-# 🏆 Highlights
-
-* 🥇 Winner — Hackapolooza '25
-* 🚀 Founder of A-Zentrix
-* 🎤 Conducted AI & Prompt Engineering Workshops
-* 🧠 Architected AI-based intelligent systems
-* 📜 Building innovation-driven AI products and platforms
-
----
-
-# 🎯 Long-Term Mission
+### 📈 Activity Trajectory
 
 <div align="center">
 
-### “Building scalable AI technologies that create meaningful real-world transformation.”
+<a href="https://github.com/asmohamedarfeen">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmohamedarfeen&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+</a>
 
 </div>
 
 ---
 
+## 🏆 Honors & Thought Leadership
+
+* 🥇 **Winner — Hackapolooza '25**: Awarded first place for architecting cutting-edge AI-driven solutions under intense hackathon sprints.
+* 🚀 **Founder @ A-Zentrix**: Driving strategic roadmaps, research translation, and commercial software delivery.
+* 🎙️ **Keynote Speaker & AI Educator**: Delivered masterclasses and workshops on Generative AI, LLM prompting strategies, and intelligent systems design.
+* ⚡ **Systems Mentor**: Actively guiding aspiring developers and engineers in AI product development and backend architecture.
+
+---
+
 <div align="center">
 
-### ⭐ Thank You For Visiting My Profile ⭐
+### 🎯 Long-Term Vision
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+> *"Building scalable, sovereign AI technologies that transform human potential at global scale."*
+
+<br />
+
+<p align="center">
+  <b>Let's build something extraordinary together.</b><br />
+  Reach out via <a href="https://linkedin.com/in/asmohamedarfeen/">LinkedIn</a> or drop an email at <a href="mailto:asmohamed.arfeen@gmail.com">asmohamed.arfeen@gmail.com</a>.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
